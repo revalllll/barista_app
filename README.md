@@ -10,6 +10,14 @@ Aplikasi ini dilengkapi dengan berbagai resep kopi yang terstruktur, lengkap den
 
 ---
 
+## 📐 Desain Aplikasi
+Berikut dokumentasi lengkap dari aplikasi ini, disini:
+- **STORYBOARD, MOCKUP, DESIGN UI**
+  https://www.canva.com/design/DAGWETpkr7o/F-EuVFNVc49xhzPfLVL_5g/edit?utm_content=DAGWETpkr7o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+> *Catatan*: Desain dapat diperbarui seiring dengan pengembangan aplikasi.
+
+---
+
 ## 📋 Fitur Utama
 
 ### 1. Halaman Awal
