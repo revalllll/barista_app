@@ -61,5 +61,38 @@ Aplikasi ini dilengkapi dengan berbagai resep kopi yang terstruktur, lengkap den
     - Desain minimalis menggunakan palet warna coklat dan hitam.
 - **Backend**: Master Database.
 - **Platform**: Android
+---
+# 📱 Detail Aplikasi Barista
+
+- **Nama Aplikasi**: Barista - Coffee Recipes
+- **Deskripsi Singkat**: Aplikasi panduan belajar membuat kopi seperti seorang barista profesional.
+- **Versi**: 1.0.0 (Beta)
+- **Tanggal Rilis Awal**: [Coming Soon]
+- **Platform**: Android
+- 
+---
+
+## 📈 Fitur Versi 1.0.0 (Beta)
+
+1. **Navigasi Halaman Awal**
+    - Tampilan logo, tagline, dan tombol *Coffee Recipes*.
+
+2. **Daftar Resep Kopi**
+    - Daftar resep dengan ikon dan nama kopi yang menarik.
+
+3. **Detail Resep**
+    - Informasi bahan dan langkah-langkah pembuatan kopi.
+
+4. **Desain Modern**
+    - Palet warna coklat dan hitam untuk suasana kedai kopi.
 
 ---
+
+---
+## 📜 Hak Cipta
+
+© 2024 **Reval Alfarizzi Akbar**. All Rights Reserved.
+
+Aplikasi *Barista - Coffee Recipes* beserta desain, kode, dan konten di dalamnya merupakan karya cipta yang dilindungi undang-undang. Tidak diperkenankan mendistribusikan, menyalin, atau memodifikasi tanpa izin tertulis dari pemilik hak cipta.
+
+Jika Anda ingin menggunakan bagian dari aplikasi ini untuk keperluan tertentu, silakan hubungi saya melalui email: [revalalfarizziakbar54321@gmail.com]
