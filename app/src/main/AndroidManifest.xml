@@ -13,9 +13,41 @@
         android:theme="@style/Theme.Barista_app"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".cinnamonlatte_resep"
             android:exported="false" />
-        <!-- Splash Screen sebagai launcher -->
+        <activity
+            android:name=".cappuccino_resep"
+            android:exported="false" />
+        <activity
+            android:name=".bavariancoffee_resep"
+            android:exported="false" />
+        <activity
+            android:name=".icedmocha_resep"
+            android:exported="false" />
+        <activity
+            android:name=".vanillacoffee_resep"
+            android:exported="false" />
+        <activity
+            android:name=".italianespresso_resep"
+            android:exported="false" />
+        <activity
+            android:name=".classicespresso_resep"
+            android:exported="false" />
+        <activity
+            android:name=".coffeeindonesia_resep"
+            android:exported="false" />
+        <activity
+            android:name=".caramelcoldcoffee_resep"
+            android:exported="false" />
+        <activity
+            android:name=".blackcoffee_resep"
+            android:exported="false" />
+        <activity
+            android:name=".list_menu"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" /> <!-- Splash Screen sebagai launcher -->
         <activity
             android:name=".splash_screen"
             android:exported="true">

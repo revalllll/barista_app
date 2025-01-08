@@ -5,30 +5,31 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/linear"
-    tools:context=".homepage">
+    android:background="@color/black"
+    tools:context=".cappuccino_resep">
 
-    <ImageButton
-        android:id="@+id/imageButton"
-        android:layout_width="411dp"
-        android:layout_height="461dp"
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.488"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/logo_homepage" />
+        app:layout_constraintVertical_bias="0.344"
+        app:srcCompat="@drawable/cappuccino_resep" />
 
     <ImageButton
-        android:id="@+id/imageButton2"
-        android:layout_width="435dp"
-        android:layout_height="94dp"
+        android:id="@+id/imageButton21"
+        android:layout_width="432dp"
+        android:layout_height="49dp"
         android:background="@drawable/riple_abuabu"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/imageButton"
-        app:layout_constraintVertical_bias="0.674"
-        app:srcCompat="@drawable/group_7" />
-
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.058"
+        app:srcCompat="@drawable/group_22" />
 </androidx.constraintlayout.widget.ConstraintLayout>
